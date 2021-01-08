@@ -6,9 +6,6 @@
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/r.kongulov "Connect on Facebook")
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")-->
-
-![]()
-
 I am 28 years old and I am a senior PHP developer with 10 years of experience
 
 - 🔭 I’m currently working on creating packages for php
