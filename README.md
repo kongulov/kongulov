@@ -1,13 +1,11 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ramiz 👨🏻‍💻
 
-<!--
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
--->
-<a href="https://www.linkedin.com/in/kongulov">
-  <img align="left" alt="Ramiz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Gmail Badge](https://img.shields.io/badge/-ramiz.kongulov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramiz.kongulov@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Ramiz%20Kongulov-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kongulov?locale=en_US "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@RamizKongulov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RamizKongulov "Contact on Telegram")
+<!--[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")-->
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/r.kongulov "Connect on Facebook")
+
 
 ![]()
 
