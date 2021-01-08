@@ -9,7 +9,7 @@
   <img align="left" alt="Ramiz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+![]()
 
 I am 28 years old and I am a senior PHP developer with 10 years of experience
 
