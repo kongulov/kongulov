@@ -7,7 +7,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-0078FF?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8676838/ramiz-kongulov "Stackoverflow")
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")-->
-I am 28 years old and I am a senior PHP developer with 10 years of experience
+I am 29 years old and I am a senior PHP developer with 13 years of experience
 
 - 🔭 I’m currently working on creating packages for php
 - 🌱 I’m currently learning AWS
