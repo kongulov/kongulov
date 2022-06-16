@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ramiz 👨🏻‍💻
+## Hey there 👋 I'm Ramiz 👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-ramiz.kongulov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramiz.kongulov@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Ramiz%20Kongulov-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kongulov?locale=en_US "Connect on LinkedIn")
