@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ramiz.kongulov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramiz.kongulov@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Ramiz%20Kongulov-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kongulov?locale=en_US "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@RamizKongulov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RamizKongulov "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@Kongulov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/kongulov "Contact on Telegram")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/r.kongulov "Connect on Facebook")
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-0078FF?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8676838/ramiz-kongulov "Stackoverflow")
 
