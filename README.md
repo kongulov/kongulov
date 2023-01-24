@@ -43,5 +43,6 @@ I am 29 years old and I am a senior PHP developer with 13 years of experience
   </tbody>
 </table>
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=kongulov&show_icons=true&theme=gotham" alt="kongulov" />
+-->
