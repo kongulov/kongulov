@@ -20,6 +20,7 @@ I am 29 years old and I am a senior PHP developer with 13 years of experience
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
+      <td><b>⬇️ Downloads</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
@@ -29,13 +30,23 @@ I am 29 years old and I am a senior PHP developer with 13 years of experience
     <tr>
       <td><a href="https://github.com/kongulov/nova-tab-translatable"><b>Making Nova Tab Translatable</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://poser.pugx.org/kongulov/nova-tab-translatable/downloads?format=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
+      <td><a href="https://github.com/kongulov/interact-with-enum"><b>Interact With Enum</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kongulov/interact-with-enum?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://poser.pugx.org/kongulov/interact-with-enum/downloads?format=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kongulov/interact-with-enum?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kongulov/interact-with-enum?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kongulov/interact-with-enum?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/kongulov/Font-Awesome-icons-for-google-maps"><b>Font Awesome icons for google maps markers</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kongulov/Font-Awesome-icons-for-google-maps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://poser.pugx.org/kongulov/Font-Awesome-icons-for-google-maps/downloads?format=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kongulov/Font-Awesome-icons-for-google-maps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kongulov/Font-Awesome-icons-for-google-maps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kongulov/Font-Awesome-icons-for-google-maps?style=flat-square&labelColor=343b41"/></td>
