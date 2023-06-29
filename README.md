@@ -36,7 +36,7 @@ I am 29 years old and I am a senior PHP developer with 13 years of experience
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kongulov/interact-with-enum"><b>Interact With Enum</b></a></td>
+      <td><a href="https://github.com/kongulov/interact-with-enum"><b>Interact With Enum in PHP</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kongulov/interact-with-enum?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Downloads" src="https://poser.pugx.org/kongulov/interact-with-enum/downloads?format=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kongulov/interact-with-enum?style=flat-square&labelColor=343b41"/></td>
