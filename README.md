@@ -7,6 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@Kongulov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/kongulov "Contact on Telegram")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/r.kongulov "Connect on Facebook")
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-0078FF?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8676838/kongulov "Stackoverflow")
+![](https://komarev.com/ghpvc/?username=kongulov&color=dc143c)
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")-->
 I'm Ramiz Kongulov, a senior PHP developer with 13 years of experience
