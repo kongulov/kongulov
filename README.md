@@ -1,5 +1,4 @@
-## Hey there 👋 
-
+![screenshot](https://kongulov.github.io/sitescreenshots/Ramiz_Kongulov_banner.png)
 
 [![Static Badge](https://img.shields.io/badge/Kongulov.dev-b92f4d?logo=keras&logoColor=white)](https://kongulov.dev "Ramiz’s blog about development")
 [![Gmail Badge](https://img.shields.io/badge/-ramiz@kongulov.dev-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramiz@kongulov.dev "Connect via Email")
