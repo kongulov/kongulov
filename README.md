@@ -56,6 +56,3 @@ I'm Ramiz Kongulov, a senior PHP developer with 13 years of experience
     </tr>
   </tbody>
 </table>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=kongulov&show_icons=true&theme=gotham" alt="kongulov" />
