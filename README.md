@@ -32,7 +32,7 @@ I'm Ramiz Kongulov, a senior PHP developer with 13 years of experience
   <tbody>
     <tr>
       <td><a href="https://github.com/kongulov/nova-tab-translatable"><b>Making Nova Tab Translatable</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b42"/></td>
       <td><img alt="Downloads" src="https://poser.pugx.org/kongulov/nova-tab-translatable/downloads?format=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kongulov/nova-tab-translatable?style=flat-square&labelColor=343b41"/></td>
